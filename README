@@ -1,0 +1,24 @@
+각자 역할 분담
+
+ 장기수
+ - PM
+ - 발표 자료 제작 및 발표
+ - 그 외 문서작업
+ - 전체적인 프로젝트 조율
+ - 디자인에 대한 조언
+
+ 김종용
+ - 노트 패드에 관한 코딩을 주도 했습니다.
+ - 노트 패드에 관한 소스 조사하고 적용
+ - NoteEdit.java, Notepadv3.java, NoteDbAdapter.java 제작 주도
+
+ 박정범
+ - 알람에 관한 코딩을 주도 했습니다.
+ - 알람에 관한 소스 조사하고 적용
+ - Alramd.java, AlramReceiver.java
+
+ 전현철
+ - UI디자인에 대한 코딩을 주도 했습니다.
+ - UI에 대한 소스를 조사하고 적용
+ - alram.xml, note_edt.xml, notes_list.xml, notes_row.xml 제작 주도
+
